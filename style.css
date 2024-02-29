@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: font1;
+  src: url(fonte/Barbie.otf);
+}
+
+body{
+  text-align: center; 
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIv_Jj0Ca6IaL59qpOr5MHpl49n7Gsvg8MOhThyZXnZlvvPgnVserxkgqBaSSe5LagCIg&usqp=CAU);
+  font-size: 30px;
+}
+
+h1{
+  font-family: font1;
+    font-size: 50px;
+}
+
+label{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+  width: 100px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: palevioletred;
+  
+}
+
+footer{
+  margin-top: 400px;
+}
